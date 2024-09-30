@@ -1,0 +1,10 @@
+C:\Users\2K24\source\repos\isp-223k\isp-223k\bin\Debug\isp-223k.exe.config
+C:\Users\2K24\source\repos\isp-223k\isp-223k\bin\Debug\isp-223k.exe
+C:\Users\2K24\source\repos\isp-223k\isp-223k\bin\Debug\isp-223k.pdb
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp-223k.csproj.AssemblyReference.cache
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp_223k.Properties.Resources.resources
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp-223k.csproj.GenerateResource.cache
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp-223k.csproj.CoreCompileInputs.cache
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp-223k.exe
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp-223k.pdb
+C:\Users\2K24\source\repos\isp-223k\isp-223k\obj\Debug\isp_223k.calc.resources
